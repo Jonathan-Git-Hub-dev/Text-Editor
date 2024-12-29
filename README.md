@@ -8,5 +8,6 @@ This is a Text Editor program inspired by the GNU nano editor. This program is u
 
  
  HOW TO USE:
- Install Docker https://docs.docker.com/engine/install/
- 
+ (1) Install Docker, how this is done can be found here: https://docs.docker.com/engine/install/
+ (2) Download my package using the following command : docker pull ghcr.io/jonathan-git-hub-dev/texteditor:latest
+ (3)
