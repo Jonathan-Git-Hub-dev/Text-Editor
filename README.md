@@ -14,4 +14,4 @@ HOW TO USE:
 (4) Run the container: docker start -i test
 (5) Compile the Program : make
 (6) Run Program: ./edit (file name of your choice)
-(7) If help is needed hold CTRL and press H
+(7) The shortcut manual can be found by holding CTRL and pressing H
