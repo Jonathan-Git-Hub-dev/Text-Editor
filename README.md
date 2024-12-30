@@ -6,6 +6,8 @@ This is a Text Editor program inspired by the GNU nano editor. This program is u
 	-Jump to next occurrence of (string)
 	-Highlight to copy and Paste
 
+Please watch the demonstration video.
+
  
 HOW TO USE:
 (1) Install Docker, how this is done can be found here: https://docs.docker.com/engine/install/
