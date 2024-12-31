@@ -59,3 +59,8 @@ highlighting:
         -is highlighting done properly when multiple different elements
 
 
+ spell check 
+
+ statement about programs flaws
+
+
