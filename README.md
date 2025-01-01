@@ -59,8 +59,8 @@ highlighting:
         -is highlighting done properly when multiple different elements
 
 
- spell check 
+CLOSING STATEMENT:
+through the testing of the program i have found that it to be almost error free. The error I found which I fixed is one that treats an arrow press as sperate inputs constisting of (ESC + [ + a letter) which would occur about one in every five hundred inputs. the patch seems to be working but to truley establish its effectiveness would require testing i am not willing to do considering that i would like to start my next project.
+in conclusion the text editor fulfills my intial requirements.
 
- statement about programs flaws
-
-
+thank you for your time.
